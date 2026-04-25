@@ -1,0 +1,17 @@
+.col{
+    width: 64px;
+    height: 64px;
+    border: 1px solid black;
+    display: inline-block;
+    background-color: white;
+    text-align: center;
+}
+.row{
+    display: flex;
+    background-color: white;
+    text-align: center;
+}
+body{
+    background-color: black;
+    ;
+}
